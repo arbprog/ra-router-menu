@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-router-menu/static/css/main.5dd6ea69.css",
+    "main.js": "/ra-router-menu/static/js/main.11686c67.js",
+    "index.html": "/ra-router-menu/index.html",
+    "main.5dd6ea69.css.map": "/ra-router-menu/static/css/main.5dd6ea69.css.map",
+    "main.11686c67.js.map": "/ra-router-menu/static/js/main.11686c67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd6ea69.css",
+    "static/js/main.11686c67.js"
+  ]
+}
